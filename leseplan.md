@@ -8,6 +8,12 @@ Dieser Leseplan begleitet dich durch die gesamte katholische Bibel, inklusive de
 
 ---
 
+### Vorbereitung
+
+- [Tag 0: Vorbereitung](./episodes/Tag0.md)
+
+---
+
 ### ⏰ Januar 2025  
 - [**Tag 1:** Genesis 1–4](./episodes/Tag1.md)
 - [**Tag 2:** Genesis 5–8](./episodes/Tag2.md) 
