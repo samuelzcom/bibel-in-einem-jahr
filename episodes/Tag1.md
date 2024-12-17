@@ -12,7 +12,7 @@
 
 ## Einleitung in das Tageskapitel: 
 
-"Wir starten heute mit **1. Mose, Kapitel 1–4** – die ersten Seiten der Bibel. Hier begegnen wir Gottes wunderbarem Schöpfungswerk, seiner Liebe zum Detail und seiner besonderen Beziehung zum Menschen. Außerdem lesen wir vom **Sündenfall**, der unsere Welt verändert hat, und der Geschichte von **Kain und Abel**, die von Schuld, Neid und Gottes Gerechtigkeit erzählt."  
+"Wir starten heute mit **Genesis, Kapitel 1–4** , auch erstes Buch Mose genannt, die allerersten Seiten in der Bibel. Hier begegnen wir Gottes wunderbarem Schöpfungswerk, seiner Liebe zum Detail und seiner besonderen Beziehung zum Menschen. Außerdem lesen wir vom **Sündenfall**, der unsere Welt verändert hat, und der Geschichte von **Kain und Abel**, die von Schuld, Neid und Gottes Gerechtigkeit erzählt."  
 
 ## Zusammenfassung des Tageskapitels: 
 
