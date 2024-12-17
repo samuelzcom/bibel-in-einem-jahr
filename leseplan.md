@@ -44,6 +44,8 @@ Dieser Leseplan begleitet dich durch die gesamte katholische Bibel, inklusive de
 | 30  | Levitikus 25–28           |
 | 31  | Levitikus 29–32           |
 
+---
+
 ## ⏰ Februar 2025
 | Tag | Kapitel                   |
 | --- | ------------------------- |
@@ -76,6 +78,8 @@ Dieser Leseplan begleitet dich durch die gesamte katholische Bibel, inklusive de
 | 27  | Richter 17–20            |
 | 28  | Richter 21; Ruth 1–3      |
 | 29  | Ruth 4; 1 Samuel 1–3      |
+
+---
 
 ## ⏰ März 2025
 | Tag | Kapitel                   |
@@ -114,10 +118,76 @@ Dieser Leseplan begleitet dich durch die gesamte katholische Bibel, inklusive de
 
 ---
 
-## Weitere Monate
-Die weiteren Monate sind ähnlich strukturiert. Sie folgen der Reihenfolge der Bücher im Alten und Neuen Testament. 
+### ⏰ April 2025
+| Tag | Kapitel                   |
+| --- | ------------------------- |
+| 1   | 1 Chronik 25–29          |
+| 2   | 2 Chronik 1–4            |
+| 3   | 2 Chronik 5–8            |
+| 4   | 2 Chronik 9–12           |
+| 5   | 2 Chronik 13–16          |
+| 6   | 2 Chronik 17–20          |
+| 7   | 2 Chronik 21–24          |
+| 8   | 2 Chronik 25–28          |
+| 9   | 2 Chronik 29–32          |
+| 10  | 2 Chronik 33–36          |
+| 11  | Esra 1–4                 |
+| 12  | Esra 5–8                 |
+| 13  | Esra 9–10; Nehemia 1–2   |
+| 14  | Nehemia 3–6              |
+| 15  | Nehemia 7–10             |
+| 16  | Nehemia 11–13; Tobit 1   |
+| 17  | Tobit 2–5                |
+| 18  | Tobit 6–9                |
+| 19  | Tobit 10–14              |
+| 20  | Judit 1–4                |
+| 21  | Judit 5–8                |
+| 22  | Judit 9–12               |
+| 23  | Judit 13–16              |
+| 24  | Ester 1–4                |
+| 25  | Ester 5–8                |
+| 26  | Ester 9–10; 1 Makkabäer 1|
+| 27  | 1 Makkabäer 2–5          |
+| 28  | 1 Makkabäer 6–9          |
+| 29  | 1 Makkabäer 10–13        |
+| 30  | 1 Makkabäer 14–16        |
 
-Ein detaillierter Plan für jeden Monat wird bald hier verfügbar sein.
+---
+
+### ⏰ Mai 2025
+| Tag | Kapitel                   |
+| --- | ------------------------- |
+| 1   | 2 Makkabäer 1–4          |
+| 2   | 2 Makkabäer 5–8          |
+| 3   | 2 Makkabäer 9–12         |
+| 4   | 2 Makkabäer 13–15        |
+| 5   | Ijob 1–4                 |
+| 6   | Ijob 5–8                 |
+| 7   | Ijob 9–12                |
+| 8   | Ijob 13–16               |
+| 9   | Ijob 17–20               |
+| 10  | Ijob 21–24               |
+| 11  | Ijob 25–28               |
+| 12  | Ijob 29–32               |
+| 13  | Ijob 33–36               |
+| 14  | Ijob 37–40               |
+| 15  | Ijob 41–42; Psalmen 1–3  |
+| 16  | Psalmen 4–7              |
+| 17  | Psalmen 8–11             |
+| 18  | Psalmen 12–15            |
+| 19  | Psalmen 16–19            |
+| 20  | Psalmen 20–23            |
+| 21  | Psalmen 24–27            |
+| 22  | Psalmen 28–31            |
+| 23  | Psalmen 32–35            |
+| 24  | Psalmen 36–39            |
+| 25  | Psalmen 40–43            |
+| 26  | Psalmen 44–47            |
+| 27  | Psalmen 48–51            |
+| 28  | Psalmen 52–55            |
+| 29  | Psalmen 56–59            |
+| 30  | Psalmen 60–63            |
+| 31  | Psalmen 64–67            |
 
 ---
 
