@@ -77,6 +77,41 @@ Dieser Leseplan begleitet dich durch die gesamte katholische Bibel, inklusive de
 | 28  | Richter 21; Ruth 1–3      |
 | 29  | Ruth 4; 1 Samuel 1–3      |
 
+## ⏰ März 2025
+| Tag | Kapitel                   |
+| --- | ------------------------- |
+| 1   | 1 Samuel 4–7             |
+| 2   | 1 Samuel 8–11            |
+| 3   | 1 Samuel 12–15           |
+| 4   | 1 Samuel 16–19           |
+| 5   | 1 Samuel 20–23           |
+| 6   | 1 Samuel 24–27           |
+| 7   | 1 Samuel 28–31; 2 Samuel 1|
+| 8   | 2 Samuel 2–5             |
+| 9   | 2 Samuel 6–9             |
+| 10  | 2 Samuel 10–13           |
+| 11  | 2 Samuel 14–17           |
+| 12  | 2 Samuel 18–21           |
+| 13  | 2 Samuel 22–24           |
+| 14  | 1 Könige 1–4            |
+| 15  | 1 Könige 5–8            |
+| 16  | 1 Könige 9–12           |
+| 17  | 1 Könige 13–16          |
+| 18  | 1 Könige 17–20          |
+| 19  | 1 Könige 21–22; 2 Könige 1 |
+| 20  | 2 Könige 2–5            |
+| 21  | 2 Könige 6–9            |
+| 22  | 2 Könige 10–13          |
+| 23  | 2 Könige 14–17          |
+| 24  | 2 Könige 18–21          |
+| 25  | 2 Könige 22–25          |
+| 26  | 1 Chronik 1–4            |
+| 27  | 1 Chronik 5–8            |
+| 28  | 1 Chronik 9–12           |
+| 29  | 1 Chronik 13–16          |
+| 30  | 1 Chronik 17–20          |
+| 31  | 1 Chronik 21–24          |
+
 ---
 
 ## Weitere Monate
