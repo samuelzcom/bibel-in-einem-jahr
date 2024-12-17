@@ -215,235 +215,231 @@ Dieser Leseplan begleitet dich durch die gesamte katholische Bibel, inklusive de
 | 19  | Psalmen 136–139          |
 | 20  | Psalmen 140–143          |
 | 21  | Psalmen 144–147          |
-| 22  | Psalmen 148–150; Sprichwörter 1–2 |
-| 23  | Sprichwörter 3–5         |
-| 24  | Sprichwörter 6–8         |
-| 25  | Sprichwörter 9–11        |
-| 26  | Sprichwörter 12–14       |
-| 27  | Sprichwörter 15–17       |
-| 28  | Sprichwörter 18–20       |
-| 29  | Sprichwörter 21–23       |
-| 30  | Sprichwörter 24–26       |
+| 22  | Psalmen 148–150; Sprichwörter 1 |
+| 23  | Sprichwörter 2–5         |
+| 24  | Sprichwörter 6–9         |
+| 25  | Sprichwörter 10–13       |
+| 26  | Sprichwörter 14–17       |
+| 27  | Sprichwörter 18–21       |
+| 28  | Sprichwörter 22–25       |
+| 29  | Sprichwörter 26–29       |
+| 30  | Sprichwörter 30–31; Kohelet 1 |
 
 ---
 
 ### ⏰ Juli 2025
 | Tag | Kapitel                   |
 | --- | ------------------------- |
-| 1   | Sprichwörter 27–29        |
-| 2   | Sprichwörter 30–31; Kohelet 1 |
-| 3   | Kohelet 2–4              |
-| 4   | Kohelet 5–7              |
-| 5   | Kohelet 8–10             |
-| 6   | Kohelet 11–12; Hohelied 1 |
-| 7   | Hohelied 2–4             |
-| 8   | Hohelied 5–8             |
-| 9   | Weisheit 1–3             |
-| 10  | Weisheit 4–6             |
-| 11  | Weisheit 7–9             |
-| 12  | Weisheit 10–12           |
-| 13  | Weisheit 13–15           |
-| 14  | Weisheit 16–19           |
-| 15  | Jesus Sirach 1–3         |
-| 16  | Jesus Sirach 4–6         |
-| 17  | Jesus Sirach 7–9         |
-| 18  | Jesus Sirach 10–12       |
-| 19  | Jesus Sirach 13–15       |
-| 20  | Jesus Sirach 16–18       |
-| 21  | Jesus Sirach 19–21       |
-| 22  | Jesus Sirach 22–24       |
-| 23  | Jesus Sirach 25–27       |
-| 24  | Jesus Sirach 28–30       |
-| 25  | Jesus Sirach 31–33       |
-| 26  | Jesus Sirach 34–36       |
-| 27  | Jesus Sirach 37–39       |
-| 28  | Jesus Sirach 40–42       |
-| 29  | Jesus Sirach 43–45       |
-| 30  | Jesus Sirach 46–48       |
-| 31  | Jesus Sirach 49–51       |
+| 1   | Kohelet 2–5              |
+| 2   | Kohelet 6–9              |
+| 3   | Kohelet 10–12; Hohelied 1 |
+| 4   | Hohelied 2–5             |
+| 5   | Hohelied 6–8; Weisheit 1 |
+| 6   | Weisheit 2–5             |
+| 7   | Weisheit 6–9             |
+| 8   | Weisheit 10–13           |
+| 9   | Weisheit 14–16           |
+| 10  | Weisheit 17–19; Jesus Sirach 1 |
+| 11  | Jesus Sirach 2–5         |
+| 12  | Jesus Sirach 6–9         |
+| 13  | Jesus Sirach 10–13       |
+| 14  | Jesus Sirach 14–17       |
+| 15  | Jesus Sirach 18–21       |
+| 16  | Jesus Sirach 22–25       |
+| 17  | Jesus Sirach 26–29       |
+| 18  | Jesus Sirach 30–33       |
+| 19  | Jesus Sirach 34–37       |
+| 20  | Jesus Sirach 38–41       |
+| 21  | Jesus Sirach 42–45       |
+| 22  | Jesus Sirach 46–49       |
+| 23  | Jesus Sirach 50–51; Jesaja 1 |
+| 24  | Jesaja 2–5               |
+| 25  | Jesaja 6–9               |
+| 26  | Jesaja 10–13             |
+| 27  | Jesaja 14–17             |
+| 28  | Jesaja 18–21             |
+| 29  | Jesaja 22–25             |
+| 30  | Jesaja 26–29             |
+| 31  | Jesaja 30–33             |
 
 ---
 
 ### ⏰ August 2025
 | Tag | Kapitel                   |
 | --- | ------------------------- |
-| 1   | Jesaja 1–3               |
-| 2   | Jesaja 4–6               |
-| 3   | Jesaja 7–9               |
-| 4   | Jesaja 10–12             |
-| 5   | Jesaja 13–15             |
-| 6   | Jesaja 16–18             |
-| 7   | Jesaja 19–21             |
-| 8   | Jesaja 22–24             |
-| 9   | Jesaja 25–27             |
-| 10  | Jesaja 28–30             |
-| 11  | Jesaja 31–33             |
-| 12  | Jesaja 34–36             |
-| 13  | Jesaja 37–39             |
-| 14  | Jesaja 40–42             |
-| 15  | Jesaja 43–45             |
-| 16  | Jesaja 46–48             |
-| 17  | Jesaja 49–51             |
-| 18  | Jesaja 52–54             |
-| 19  | Jesaja 55–57             |
-| 20  | Jesaja 58–60             |
-| 21  | Jesaja 61–63             |
-| 22  | Jesaja 64–66; Jeremia 1–2 |
-| 23  | Jeremia 3–5             |
-| 24  | Jeremia 6–8             |
-| 25  | Jeremia 9–11            |
-| 26  | Jeremia 12–14           |
-| 27  | Jeremia 15–17           |
-| 28  | Jeremia 18–20           |
-| 29  | Jeremia 21–23           |
-| 30  | Jeremia 24–26           |
-| 31  | Jeremia 27–29           |
+| 1   | Jesaja 34–37             |
+| 2   | Jesaja 38–41             |
+| 3   | Jesaja 42–45             |
+| 4   | Jesaja 46–49             |
+| 5   | Jesaja 50–53             |
+| 6   | Jesaja 54–57             |
+| 7   | Jesaja 58–61             |
+| 8   | Jesaja 62–65             |
+| 9   | Jesaja 66; Jeremia 1–3   |
+| 10  | Jeremia 4–7             |
+| 11  | Jeremia 8–11            |
+| 12  | Jeremia 12–15           |
+| 13  | Jeremia 16–19           |
+| 14  | Jeremia 20–23           |
+| 15  | Jeremia 24–27           |
+| 16  | Jeremia 28–31           |
+| 17  | Jeremia 32–35           |
+| 18  | Jeremia 36–39           |
+| 19  | Jeremia 40–43           |
+| 20  | Jeremia 44–47           |
+| 21  | Jeremia 48–50           |
+| 22  | Jeremia 51–52; Klagelieder 1 |
+| 23  | Klagelieder 2–5         |
+| 24  | Baruch 1–4              |
+| 25  | Baruch 5; Ezechiel 1–3  |
+| 26  | Ezechiel 4–7            |
+| 27  | Ezechiel 8–11           |
+| 28  | Ezechiel 12–15          |
+| 29  | Ezechiel 16–19          |
+| 30  | Ezechiel 20–23          |
+| 31  | Ezechiel 24–27          |
 
 ---
 
 ### ⏰ September 2025
 | Tag | Kapitel                   |
 | --- | ------------------------- |
-| 1   | Jeremia 30–32            |
-| 2   | Jeremia 33–35            |
-| 3   | Jeremia 36–38            |
-| 4   | Jeremia 39–41            |
-| 5   | Jeremia 42–44            |
-| 6   | Jeremia 45–47            |
-| 7   | Jeremia 48–50            |
-| 8   | Jeremia 51–52; Klagelieder 1 |
-| 9   | Klagelieder 2–3          |
-| 10  | Klagelieder 4–5; Baruch 1 |
-| 11  | Baruch 2–4              |
-| 12  | Baruch 5; Ezechiel 1–2   |
-| 13  | Ezechiel 3–5            |
-| 14  | Ezechiel 6–8            |
-| 15  | Ezechiel 9–11           |
-| 16  | Ezechiel 12–14          |
-| 17  | Ezechiel 15–17          |
-| 18  | Ezechiel 18–20          |
-| 19  | Ezechiel 21–23          |
-| 20  | Ezechiel 24–26          |
-| 21  | Ezechiel 27–29          |
-| 22  | Ezechiel 30–32          |
-| 23  | Ezechiel 33–35          |
-| 24  | Ezechiel 36–38          |
-| 25  | Ezechiel 39–41          |
-| 26  | Ezechiel 42–44          |
-| 27  | Ezechiel 45–47          |
-| 28  | Ezechiel 48; Daniel 1–2 |
-| 29  | Daniel 3–5             |
-| 30  | Daniel 6–8             |
+| 1   | Ezechiel 28–30           |
+| 2   | Ezechiel 31–33           |
+| 3   | Ezechiel 34–36           |
+| 4   | Ezechiel 37–39           |
+| 5   | Ezechiel 40–42           |
+| 6   | Ezechiel 43–45           |
+| 7   | Ezechiel 46–48           |
+| 8   | Daniel 1–3               |
+| 9   | Daniel 4–6               |
+| 10  | Daniel 7–9               |
+| 11  | Daniel 10–12             |
+| 12  | Hosea 1–3                |
+| 13  | Hosea 4–6                |
+| 14  | Hosea 7–9                |
+| 15  | Hosea 10–12              |
+| 16  | Hosea 13–14; Joel 1      |
+| 17  | Joel 2–3; Amos 1         |
+| 18  | Amos 2–4                 |
+| 19  | Amos 5–7                 |
+| 20  | Amos 8–9; Obadja 1       |
+| 21  | Jona 1–3                 |
+| 22  | Jona 4; Micha 1–2        |
+| 23  | Micha 3–5                |
+| 24  | Micha 6–7; Nahum 1       |
+| 25  | Nahum 2–3; Habakuk 1     |
+| 26  | Habakuk 2–3; Zefanja 1   |
+| 27  | Zefanja 2–3; Haggai 1    |
+| 28  | Haggai 2; Sacharja 1–2   |
+| 29  | Sacharja 3–5             |
+| 30  | Sacharja 6–8             |
 
 ---
 
 ### ⏰ Oktober 2025
 | Tag | Kapitel                   |
 | --- | ------------------------- |
-| 1   | Daniel 9–12             |
-| 2   | Hosea 1–4               |
-| 3   | Hosea 5–7               |
-| 4   | Hosea 8–10              |
-| 5   | Hosea 11–14             |
-| 6   | Joel 1–3                |
-| 7   | Amos 1–3                |
-| 8   | Amos 4–6                |
-| 9   | Amos 7–9                |
-| 10  | Obadja 1; Jona 1–2      |
-| 11  | Jona 3–4; Micha 1       |
-| 12  | Micha 2–4               |
-| 13  | Micha 5–7               |
-| 14  | Nahum 1–3               |
-| 15  | Habakuk 1–3             |
-| 16  | Zefanja 1–3             |
-| 17  | Haggai 1–2              |
-| 18  | Sacharja 1–3            |
-| 19  | Sacharja 4–6            |
-| 20  | Sacharja 7–9            |
-| 21  | Sacharja 10–12          |
-| 22  | Sacharja 13–14; Maleachi 1 |
-| 23  | Maleachi 2–4; Matthäus 1–2 |
-| 24  | Matthäus 3–5            |
-| 25  | Matthäus 6–8            |
-| 26  | Matthäus 9–11           |
-| 27  | Matthäus 12–14          |
-| 28  | Matthäus 15–17          |
-| 29  | Matthäus 18–20          |
-| 30  | Matthäus 21–23          |
-| 31  | Matthäus 24–26          |
+| 1   | Sacharja 9–11            |
+| 2   | Sacharja 12–14           |
+| 3   | Maleachi 1–3             |
+| 4   | Matthäus 1–3             |
+| 5   | Matthäus 4–6             |
+| 6   | Matthäus 7–9             |
+| 7   | Matthäus 10–12           |
+| 8   | Matthäus 13–15           |
+| 9   | Matthäus 16–18           |
+| 10  | Matthäus 19–21           |
+| 11  | Matthäus 22–24           |
+| 12  | Matthäus 25–27           |
+| 13  | Matthäus 28; Markus 1–2  |
+| 14  | Markus 3–5               |
+| 15  | Markus 6–8               |
+| 16  | Markus 9–11              |
+| 17  | Markus 12–14             |
+| 18  | Markus 15–16; Lukas 1    |
+| 19  | Lukas 2–4                |
+| 20  | Lukas 5–7                |
+| 21  | Lukas 8–10               |
+| 22  | Lukas 11–13              |
+| 23  | Lukas 14–16              |
+| 24  | Lukas 17–19              |
+| 25  | Lukas 20–22              |
+| 26  | Lukas 23–24; Johannes 1  |
+| 27  | Johannes 2–4             |
+| 28  | Johannes 5–7             |
+| 29  | Johannes 8–10            |
+| 30  | Johannes 11–13           |
+| 31  | Johannes 14–16           |
 
 ---
 
 ### ⏰ November 2025
 | Tag | Kapitel                   |
 | --- | ------------------------- |
-| 1   | Matthäus 27–28; Markus 1 |
-| 2   | Markus 2–4               |
-| 3   | Markus 5–7               |
-| 4   | Markus 8–10              |
-| 5   | Markus 11–13             |
-| 6   | Markus 14–16             |
-| 7   | Lukas 1–3                |
-| 8   | Lukas 4–6                |
-| 9   | Lukas 7–9                |
-| 10  | Lukas 10–12              |
-| 11  | Lukas 13–15              |
-| 12  | Lukas 16–18              |
-| 13  | Lukas 19–21              |
-| 14  | Lukas 22–24              |
-| 15  | Johannes 1–3             |
-| 16  | Johannes 4–6             |
-| 17  | Johannes 7–9             |
-| 18  | Johannes 10–12           |
-| 19  | Johannes 13–15           |
-| 20  | Johannes 16–18           |
-| 21  | Johannes 19–21           |
-| 22  | Apostelgeschichte 1–3    |
-| 23  | Apostelgeschichte 4–6    |
-| 24  | Apostelgeschichte 7–9    |
-| 25  | Apostelgeschichte 10–12  |
-| 26  | Apostelgeschichte 13–15  |
-| 27  | Apostelgeschichte 16–18  |
-| 28  | Apostelgeschichte 19–21  |
-| 29  | Apostelgeschichte 22–24  |
-| 30  | Apostelgeschichte 25–28  |
+| 1   | Johannes 17–19           |
+| 2   | Johannes 20–21; Apostelgeschichte 1 |
+| 3   | Apostelgeschichte 2–4     |
+| 4   | Apostelgeschichte 5–7     |
+| 5   | Apostelgeschichte 8–10    |
+| 6   | Apostelgeschichte 11–13   |
+| 7   | Apostelgeschichte 14–16   |
+| 8   | Apostelgeschichte 17–19   |
+| 9   | Apostelgeschichte 20–22   |
+| 10  | Apostelgeschichte 23–25   |
+| 11  | Apostelgeschichte 26–28   |
+| 12  | Römer 1–3                |
+| 13  | Römer 4–6                |
+| 14  | Römer 7–9                |
+| 15  | Römer 10–12              |
+| 16  | Römer 13–16             |
+| 17  | 1 Korinther 1–3         |
+| 18  | 1 Korinther 4–6         |
+| 19  | 1 Korinther 7–9         |
+| 20  | 1 Korinther 10–12       |
+| 21  | 1 Korinther 13–16       |
+| 22  | 2 Korinther 1–3         |
+| 23  | 2 Korinther 4–6         |
+| 24  | 2 Korinther 7–9         |
+| 25  | 2 Korinther 10–13       |
+| 26  | Galater 1–3             |
+| 27  | Galater 4–6             |
+| 28  | Epheser 1–3             |
+| 29  | Epheser 4–6             |
+| 30  | Philipper 1–3           |
 
 ---
 
 ### ⏰ Dezember 2025
 | Tag | Kapitel                   |
 | --- | ------------------------- |
-| 1   | Römer 1–3                |
-| 2   | Römer 4–6                |
-| 3   | Römer 7–9                |
-| 4   | Römer 10–12              |
-| 5   | Römer 13–16              |
-| 6   | 1 Korinther 1–3          |
-| 7   | 1 Korinther 4–6          |
-| 8   | 1 Korinther 7–9          |
-| 9   | 1 Korinther 10–12        |
-| 10  | 1 Korinther 13–16        |
-| 11  | 2 Korinther 1–3          |
-| 12  | 2 Korinther 4–6          |
-| 13  | 2 Korinther 7–9          |
-| 14  | 2 Korinther 10–13        |
-| 15  | Galater 1–3              |
-| 16  | Galater 4–6              |
-| 17  | Epheser 1–3              |
-| 18  | Epheser 4–6              |
-| 19  | Philipper 1–4            |
-| 20  | Kolosser 1–4             |
-| 21  | 1 Thessalonicher 1–5     |
-| 22  | 2 Thessalonicher 1–3     |
-| 23  | 1 Timotheus 1–3          |
-| 24  | 1 Timotheus 4–6          |
-| 25  | 2 Timotheus 1–4          |
-| 26  | Titus 1–3                |
-| 27  | Philemon 1; Hebräer 1–3  |
-| 28  | Hebräer 4–6              |
-| 29  | Hebräer 7–9              |
-| 30  | Hebräer 10–13            |
-| 31  | Jakobus 1–5              |
+| 1   | Philipper 4; Kolosser 1–2 |
+| 2   | Kolosser 3–4; 1 Thessalonicher 1 |
+| 3   | 1 Thessalonicher 2–4     |
+| 4   | 1 Thessalonicher 5; 2 Thessalonicher 1–2 |
+| 5   | 2 Thessalonicher 3; 1 Timotheus 1–2 |
+| 6   | 1 Timotheus 3–5          |
+| 7   | 1 Timotheus 6; 2 Timotheus 1–2 |
+| 8   | 2 Timotheus 3–4; Titus 1 |
+| 9   | Titus 2–3; Philemon 1    |
+| 10  | Hebräer 1–3              |
+| 11  | Hebräer 4–6              |
+| 12  | Hebräer 7–9              |
+| 13  | Hebräer 10–12            |
+| 14  | Hebräer 13; Jakobus 1–2  |
+| 15  | Jakobus 3–5; 1 Petrus 1  |
+| 16  | 1 Petrus 2–4             |
+| 17  | 1 Petrus 5; 2 Petrus 1–2 |
+| 18  | 2 Petrus 3; 1 Johannes 1–2 |
+| 19  | 1 Johannes 3–5           |
+| 20  | 2 Johannes 1; 3 Johannes 1; Judas 1 |
+| 21  | Offenbarung 1–3          |
+| 22  | Offenbarung 4–6          |
+| 23  | Offenbarung 7–9          |
+| 24  | Offenbarung 10–12        |
+| 25  | Offenbarung 13–15        |
+| 26  | Offenbarung 16–18        |
+| 27  | Offenbarung 19–22        |
 
 ---
 
