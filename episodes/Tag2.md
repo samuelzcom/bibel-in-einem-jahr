@@ -17,7 +17,15 @@ Was uns heute erwartet:
 1. **Genesis 5:** Der Stammbaum von Adam bis zu Noach – wie das Leben sich ausbreitet.  
 2. **Genesis 6:** Die Bosheit der Menschheit nimmt zu, und Gott entscheidet, die Erde durch die Sintflut zu reinigen.  
 3. **Genesis 7:** Die Sintflut beginnt, und Noach, seine Familie und die Tiere finden Schutz in der Arche.  
-4. **Genesis 8:** Das Ende der Sintflut – Gottes Bund der Treue zeigt sich, als die Erde wieder neues Leben empfängt."  
+4. **Genesis 8:** Das Ende der Sintflut – Gottes Bund der Treue zeigt sich, als die Erde wieder neues Leben empfängt."
+
+--- 
+
+## ** Gebet **
+
+Lass uns den Heiligen Geist einladen, bevor wir mit unserer Bibellesung beginnen:
+
+Heiliger Geist, wir bitten dich, uns mit deinem Licht zu erfüllen. Öffne unser Herz und unseren Verstand für Gottes Wort. Hilf uns, deine Wahrheit zu erkennen, und führe uns in tieferes Vertrauen und Verständnis. Amen.
 
 ---
 
