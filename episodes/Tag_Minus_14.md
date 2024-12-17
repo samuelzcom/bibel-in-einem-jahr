@@ -1,4 +1,4 @@
-# Bonus: Tipps und Tricks zum Dranbleiben
+# Noch 14 Tage: Tipps und Tricks zum Dranbleiben
 
 ---
 
@@ -6,7 +6,7 @@
 
 [**Intro-Musik spielt leise im Hintergrund.**]  
 
-"Hallo und herzlich willkommen zu einer besonderen Bonus-Episode von *Bibel in einem Jahr*! Mein Name ist Sam, und heute teile ich mit dir wertvolle Tipps und praktische Tricks, wie du diese spannende Reise durch die Heilige Schrift erfolgreich durchhältst. Denn seien wir ehrlich: Ein Jahr lang täglich Bibel zu lesen klingt herausfordernd – aber es ist machbar! Lass uns gemeinsam entdecken, wie du motiviert bleibst und die Freude an Gottes Wort Tag für Tag erleben kannst."  
+"Hallo und herzlich willkommen zu dieser besonderen Bonus-Episode von *Bibel in einem Jahr*! Mein Name ist Sam, und heute teile ich mit dir wertvolle Tipps und praktische Tricks, wie du diese spannende Reise durch die Heilige Schrift erfolgreich durchhältst. Denn seien wir ehrlich: Ein Jahr lang täglich Bibel zu lesen klingt herausfordernd – aber es ist machbar! Lass uns gemeinsam entdecken, wie du motiviert bleibst und die Freude an Gottes Wort Tag für Tag erleben kannst."  
 
 ---
 
