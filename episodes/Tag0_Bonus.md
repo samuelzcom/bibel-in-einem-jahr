@@ -1,4 +1,4 @@
-# **Bonus-Episode: Tipps und Tricks zum Dranbleiben – So schaffst du die Bibel in einem Jahr**
+# Bonus: Tipps und Tricks zum Dranbleiben
 
 ---
 
