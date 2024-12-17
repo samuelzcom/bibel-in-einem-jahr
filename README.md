@@ -6,7 +6,7 @@ Willkommen zu **"Bibel in einem Jahr"**, deinem Podcast für eine inspirierende 
 
 ## Aktuelle Episoden
 
-### [Tag 0: Der Start deiner Bibelreise](./episodes/Tag0.md)
+### [Tag 0: Der Start deiner Bibelreise](https://open.spotify.com/episode/1IwWCvDwQ5eLdgqUJFdP2k?si=2vKlys_aRsK_JuRVM-0wHA)
 In dieser ersten Folge beginnen wir gemeinsam unsere inspirierende Reise durch die Heilige Schrift. 2025 ist das Jahr, in dem wir die gesamte Bibel lesen werden – mit einem klaren, durchdachten Leseplan, der dir hilft, die Tiefe der Heiligen Schrift zu entdecken.
 
 ## Upcoming
