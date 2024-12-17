@@ -21,7 +21,7 @@ Was uns heute erwartet:
 
 --- 
 
-## ** Gebet **
+## **Gebet**
 
 Lass uns den Heiligen Geist einladen, bevor wir mit unserer Bibellesung beginnen:
 
