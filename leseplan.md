@@ -3,7 +3,7 @@
 ## 🕊️ Einleitung
 Dieser Leseplan begleitet dich durch die gesamte katholische Bibel, inklusive der deuterokanonischen Bücher. In 365 Tagen lesen wir alle 1.322 Kapitel der Heiligen Schrift. Der Plan ist so gestaltet, dass du zu Beginn des Jahres intensiver liest und zum Ende hin mehr Zeit für Reflexion hast.
 
-- **Januar bis Mai:** 4 Kapitel/Tag
+- **Januar bis August:** 4 Kapitel/Tag
 - **September bis Dezember:** 3 Kapitel/Tag
 
 ---
