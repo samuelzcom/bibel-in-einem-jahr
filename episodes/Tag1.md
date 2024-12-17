@@ -59,9 +59,9 @@
 
 ## Abschluss und Einladung: 
 
-"Das war Tag 1 unserer Bibelreise. Ich hoffe, du konntest etwas Neues entdecken und fühlst dich ermutigt, dranzubleiben. Morgen lesen wir weiter in **1. Mose, Kapitel 5–8**, und ich freue mich schon darauf, dich wieder dabei zu haben.  
+"Das war **Tag 1** unserer Bibelreise. Ich hoffe, du konntest etwas Neues entdecken und fühlst dich ermutigt, dranzubleiben. Morgen lesen wir weiter in **Genesis, Kapitel 5–8**, und ich freue mich schon darauf, dich wieder dabei zu haben.  
 
-Vergiss nicht: Du findest den vollständigen Leseplan und weitere Ressourcen auf **bibelineinemjahr.com**. Teile diesen Podcast gerne mit Familie und Freunden – gemeinsam macht die Reise noch mehr Freude.  
+*Vergiss nicht*: Du findest den vollständigen Leseplan und weitere Ressourcen auf **bibelineinemjahr.com**. Teile diesen Podcast gerne mit Familie und Freunden – gemeinsam macht die Reise noch mehr Freude.  
 
 Bis morgen, und Gottes Segen für dich!"  
 
