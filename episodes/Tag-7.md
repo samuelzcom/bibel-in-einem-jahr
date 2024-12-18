@@ -1,4 +1,4 @@
-# **Noch 7 Tage: Die Struktur der Bibel – ein Überblick**
+# **Noch 7 Tage: Die Struktur der Bibel**
 
 ---
 
